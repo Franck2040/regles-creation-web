@@ -1,0 +1,42 @@
+[
+  {
+    "archive": "archives/00-paroles-de-calixte.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "7ec0fdaf7fa274176898a077f96ca5cf50f349d2702fb1d09da3c0373bf57eb9"
+  },
+  {
+    "archive": "archives/01-univers.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "c8bed1ff223717e138faf4e5d4280137a8c9505cc6fb38505626f7c230ad5dc7"
+  },
+  {
+    "archive": "archives/08-anatomie-dun-projet.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "df482de300b199844f56d328c3bd229580422a72b8d504151a81f88dd1a46b03"
+  },
+  {
+    "archive": "archives/10-comment-on-lit-un-portfolio.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "0f481de142013070ea49229570f746ca16b54561bfb353f28f5bb6469ba78909"
+  },
+  {
+    "archive": "archives/12-comment-on-decrit-un-outil.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "392b51cb0677a8fc00c09daccb224dc8e1fec86a7955cff1d0c6c17f56a1e093"
+  },
+  {
+    "archive": "archives/15-regles-de-design.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "b10bd930763eb89b815e9a379eced59a071fd949b1a0037783fa95d3d989abdf"
+  },
+  {
+    "archive": "archives/17-etude-couleur.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "f50d661c468ad6856bb8368d982deaa457d11e6232806334f38b16ccf99f335d"
+  },
+  {
+    "archive": "archives/18-dossier-de-reprise.md",
+    "edition": "publique, informations locales et adresses retirees",
+    "sha256": "51fb9ba5680a43cf21e78230d054a133464c25f1efb747aeff74b4c7cfda6595"
+  }
+]
